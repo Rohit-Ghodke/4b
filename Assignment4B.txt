@@ -1,0 +1,10 @@
+Name: Mihika Saraf
+Roll No.: 35063
+Class: TE IT A
+Subject: Web Application Development
+
+Lab Assignment No. 4 B
+
+Title: Deploy/Host Your web application on AWS VPC or AWS Elastic Beanstalk.
+
+Site Link: https://wadassignment4b.s3.eu-north-1.amazonaws.com/mihikasaraf63index.html
